@@ -1,2 +1,3 @@
 # My-First-Repository
-This Repo is a remote repository.
+#Remote repo on GitHub; Local repo on local machine desktop
+
